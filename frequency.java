@@ -17,7 +17,7 @@ class frequency
 
                 }
             }
-            System.err.println("the character" +ch+ "appears" +freq+ "times in the string");
+            System.out.println("the character" +ch+ "appears" +freq+ "times in the string");
             sc.close();
             
                     }
